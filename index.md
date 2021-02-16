@@ -1,17 +1,33 @@
-<h1>Ludwig van Beethoven</h1>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="refresh" content="5; url=https://ifc-webviewer-dt-v01.herokuapp.com/index1.jsp">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+      <script type="text/javascript">
+                  window.location.href = "https://ifc-webviewer-dt-v01.herokuapp.com/index1.jsp"
+              </script>
+    <title>Planen Bauen 4.0 </title>
 
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuYHPyPZYfRRAc40TnVVXl3yZ51Q_0v4dvUzXIjVssV0shgH2N" alt="BEETHOVEN">
+    <style>
+      h1 {
+        margin: 2em 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center">Planen Bauen 4.0</h1>
+              <h2 class= "text-center">IFC Online WebGL Viewer</h2>
+      <div id="messageBox" class="jumbotron">
+        <p style="text-align:center;">
+        An Error has occured during Uploading the IFC File, <br>
+        You will be Automatically  back to the IFC Web Viewer <br>
+        If you are not redirected automatically, follow this <a href='http://example.com'>link to example</a>.
 
-<h2>
-    <a href="http://www.amclassical.com/mp3/amclassical_beethoven_fur_elise.mp3">fur elise
-    </a>
-</h2>
-
-<audio src="http://www.amclassical.com/mp3/amclassical_beethoven_fur_elise.mp3" controls></audio>
-
-<h2>
-    <a  href="http://www.amclassical.com/mp3/amclassical_moonlight_sonata_movement_1.mp3">moonlight sonata movement 1
-    </a>
-</h2>
-
-<audio src="http://www.amclassical.com/mp3/amclassical_moonlight_sonata_movement_1.mp3" controls></audio>
+            </p>
+      </div>
+    </div>
+  </body>
+</html>
