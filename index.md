@@ -18,4 +18,4 @@
         If you are not redirected automatically, follow this <a href='http://https://ifc-webviewer-dt-v01.herokuapp.com/index1.jsp'>link to example</a>.
 
   </body>
-</html>
+
