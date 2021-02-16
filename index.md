@@ -15,7 +15,7 @@
         <p style="text-align:center;">
         An Error has occured during Uploading the IFC File, <br>
         You will be Automatically  back to the IFC Web Viewer <br>
-        If you are not redirected automatically, follow this <a href='http://example.com'>link to example</a>.
+        If you are not redirected automatically, follow this <a href='http://https://ifc-webviewer-dt-v01.herokuapp.com/index1.jsp'>link to example</a>.
 
   </body>
 </html>
